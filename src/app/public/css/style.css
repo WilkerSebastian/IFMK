@@ -1,0 +1,76 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+
+}
+
+header{
+
+    max-width: 4.5rem;
+    min-height: 1360px;
+    border-right: 1.5px solid rgb(139, 139, 139); 
+
+}
+
+#navbar{
+    padding-top: 5%;
+    top: 0px;
+    position: sticky;
+    z-index: 1;
+    width: 4.5rem;
+    border-right: 1.5px solid rgb(139, 139, 139);
+
+}
+
+.fundo-escuro{
+
+    background-color: rgb(65, 65, 65);
+
+}
+
+#principal{
+
+    top: 1%;
+    left: 5rem;
+    position: absolute;
+    background-color: rgb(202, 202, 202);
+    width: 93%;
+    height: 1360px;
+
+}
+
+.icon-azul {
+
+    padding: 25%;
+    color: white;
+    background-color: rgb(29, 108, 173);
+    border-radius: 100%;
+
+}
+
+.icon-vermelho{
+
+    padding: 25%;
+    color: white;
+    background-color: rgb(141, 11, 11);
+    border-radius: 100%;
+
+}
+
+.icon-roxo {
+
+    padding: 0.5em;
+    color: white;
+    background-color: rgb(111, 11, 141);
+    border-radius: 100%;
+
+}
+
+#canvas{
+
+    position: absolute;
+    top: 0px;
+    left: 0px;
+
+}
